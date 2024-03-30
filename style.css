@@ -1,0 +1,14 @@
+.meditation,
+.workout,
+.study,
+.linkedin {
+    display: none;
+}
+
+.day-result-input {
+    display: none;
+}
+
+.show {
+    display: flex;
+}
